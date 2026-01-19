@@ -38,6 +38,7 @@ This project analyzes **3 Million+ biometric records** to identify critical inef
 * `enrollment_data.csv` - Raw data for new enrollments (0-5, 5-18, 18+).
 * `biometric_data.xlsx` - Biometric update logs by state and district.
 * `dashboard_v1.pbix` - The final Power BI file.
+* This project uses only adults(Age btw 5 to 18) category data only.
 
 ---
 
